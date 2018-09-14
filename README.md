@@ -10,7 +10,7 @@ Get your API key and add to the .ENV file
 
 ## App Link
 
-[https://infinite-inlet-56728.herokuapp.com/](Link)
+[Link](https://infinite-inlet-56728.herokuapp.com/)
 
 ## Quick Start
 
